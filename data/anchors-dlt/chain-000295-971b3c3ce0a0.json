@@ -1,0 +1,8 @@
+{
+  "chain_digest": "4347b6438bbbfce2f3b2b9bd66060419e91acbac47d9fb2f71c073941e17965e",
+  "count": 295,
+  "created_at": "2026-10-15T02:32:03.676093+00:00",
+  "head": "971b3c3ce0a03696492546b584731957600e8085ca40e51d91420b6600e2def7",
+  "last_issue": "26118",
+  "lottery": "dlt"
+}
